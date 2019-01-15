@@ -6,18 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 羊肉泡馍与糖蒜
-email: crownpku@gmail.com
-description: I train myself to train machines.
+title: Laylane的机械空间
+email: laylaneylv@gmail.com
+description: Laylane的机械空间
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://crownpku.com" # the base hostname & protocol for your site
-github_username: crownpku
+url: "" # the base hostname & protocol for your site
+github_username: laylane
 
 # Build settings
 markdown: kramdown
-
-#Additional by crownpku
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-82231722-1
-gems:
-  - jekyll-seo-tag
