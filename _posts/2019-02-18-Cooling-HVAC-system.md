@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Cooling, HVAC (Heating, Ventilation, Air-conditioning) System in Vehicle
+title: Cooling HVAC (Heating Ventilation Air-conditioning) System in Vehicle
 
 published: true
 ---
