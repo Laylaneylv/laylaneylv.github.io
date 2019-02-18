@@ -29,16 +29,16 @@ To describe the heat exchange performance of Radiator, two factors were induced:
 
 The Epsilon-NTU method details is shown below.
 ![](/images/201902/05.png)
-![](/images/201902/06.png)
+![](/images/201902/15.png)
 
 **Q: Air-Conditioning system?**
 
 A:
-![](/images/201902/7.png)
+![](/images/201902/07.png)
 http://blog.autointhebox.com/wp-content/uploads/2015/03/What-You-Dont-Know-About-Your-Automotive-Air-Conditioning-System.jpg
 
-![](/images/201902/8.png)
-![](/images/201902/9.png)
+![](/images/201902/08.png)
+![](/images/201902/09.png)
    
 **Q: Ventilation system in vehicle?**
 
@@ -49,7 +49,7 @@ A:
 
 A:
 ![](/images/201902/11.png)
-![](/images/201902/12.png)
+![](/images/201902/14.png)
 
 **Q: Application of Cooling, HVAC system?**
 
