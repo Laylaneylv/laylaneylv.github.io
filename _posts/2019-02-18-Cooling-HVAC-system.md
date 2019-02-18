@@ -10,7 +10,7 @@ published: true
 
 A: 
 ![](/images/201902/01.png)
-![](/images/201902/02.png)
+![](/images/201902/02.PNG)
 
 **Q: Loss Head in coolant flow?**
 
