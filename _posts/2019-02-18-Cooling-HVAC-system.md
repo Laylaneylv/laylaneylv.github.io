@@ -18,7 +18,7 @@ A:
 
 A: 
 
-The ¡®Loss¡¯ generated in coolant flow contains two parts: 
+The Â¡Â®LossÂ¡Â¯ generated in coolant flow contains two parts: 
 
 	Major loss <-- Friction of flow path.
 
@@ -30,11 +30,11 @@ To calculate the total loss in coolant flow system:
 
 ![](/images/201902/04.png)
 
-**Q: Epsilon¦Å(thermal effectiveness) - NTU(number of transfer units) method applied to Radiator?**
+**Q: EpsilonÂ¦Ã…(thermal effectiveness) - NTU(number of transfer units) method applied to Radiator?**
 
 A: 
 
-To describe the heat exchange performance of Radiator, two factors were induced: one is the ¦Å(thermal effectiveness); the other one is NTU. These two factors can directly indicate the **effective heat power** exchanged through the Radiator. 
+To describe the heat exchange performance of Radiator, two factors were induced: one is the Â¦Ã…(thermal effectiveness); the other one is NTU. These two factors can directly indicate the **effective heat power** exchanged through the Radiator. 
 
 The Epsilon-NTU method details is shown below.
 
